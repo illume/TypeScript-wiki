@@ -47,7 +47,7 @@ Be considerate to others and try to be courteous and professional at all times.
 For any new features, please:
 * Add a link to the Roadmap: https://github.com/Microsoft/TypeScript/wiki/Roadmap
 * Add a blurb to what's new page: https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript
-* Add a section to the Handbook, if big enough: https://github.com/Microsoft/TypeScript-Handbook
+* Add a section to the Handbook, if big enough: https://github.com/microsoft/TypeScript-Website/tree/v2/packages/documentation/copy/en/handbook-v2
 * For breaking changes:
  * Add a breaking change notice: https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes
  * or to the API breaking changes pages: https://github.com/Microsoft/TypeScript/wiki/API-Breaking-Changes
